@@ -1,0 +1,42 @@
+/* .btn {
+    position: relative;
+    outline: none;
+    box-shadow:none;
+    border-radius:25px;
+    border:none;
+    margin-left:-65px;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+.btn-primary {
+    position: relative;
+    color: rgba(56, 167, 124, 0.5);
+    font-size: 30px;
+    background-color:white;
+} */
+.addButton{
+    margin-left:-80px;
+    background-color: transparent;
+    border:none;
+}
+input {
+    width: 84%;
+    height: 30px;
+    border:none;
+    border: 15px solid rgba(56, 167, 124, 0.5);
+    border-radius: 5px;
+    margin-right: 10px;
+    padding:5px;
+    line-height:17px;
+    background-color: rgba(56, 167, 124, 0.5);
+    color:white;
+}
+::placeholder { 
+    color: white;
+    opacity: 1; 
+}
+input:focus{
+    outline:none;
+   
+}

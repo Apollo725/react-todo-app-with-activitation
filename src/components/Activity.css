@@ -1,0 +1,36 @@
+.todoWrapper{
+    background-color:white;
+    width:80%;
+    margin-left:120px;
+    border-radius:7px;
+    margin-bottom:10px;
+    margin-top:10px;
+    height: 45px;
+    padding:10px;
+    border:1px solid rgb(241, 225, 225);
+    text-align:left;
+    line-height: 50px;
+}
+
+.favorite {
+    float: right;
+    margin-left: 15px;
+}
+
+.removeTodo{
+    float:right;
+    line-height: 80px;
+}
+
+.edit_button {
+    width: 35px !important;
+    height: 35px !important;
+    min-height: 25px !important;
+    float: right;
+    margin-top:5px !important;
+    margin-left: 15px;
+}
+
+.editableInput {
+    width: 80% !important;
+}
